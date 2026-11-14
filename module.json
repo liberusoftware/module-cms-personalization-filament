@@ -1,1 +1,11 @@
-{"name":"module-cms-personalization-filament","package":"liberusoftware/module-cms-personalization-filament","version":"0.1.0","layers":["filament"],"service_providers":["Liberu\\Cms\\PersonalizationFilament\\PersonalizationFilamentServiceProvider"]}
+{
+  "name": "module-cms-personalization-filament",
+  "package": "liberusoftware/module-cms-personalization-filament",
+  "version": "0.1.1",
+  "layers": [
+    "filament"
+  ],
+  "service_providers": [
+    "Liberu\\Cms\\PersonalizationFilament\\PersonalizationFilamentServiceProvider"
+  ]
+}
